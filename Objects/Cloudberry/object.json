@@ -1,0 +1,9 @@
+{
+  "Name": "Cloudberry",
+  "Description": "Creamy and light. Considered to be a delicacy by many.",
+  "Category": "Fruit",
+  "Edibility": 15,
+  "Price": 75,
+  "IsColored": false,
+  "Recipe": null,
+}
